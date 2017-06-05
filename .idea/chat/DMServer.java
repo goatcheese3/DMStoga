@@ -49,7 +49,14 @@ public class DMServer{
 
     }
 
+    public void streams() throws EOFException{
+
+    }
+    public void chats(){
+
+    }
+
     public String showMessage(String s) {
         return s;
-    }
+    }//wtf is the point of this lol
 }
