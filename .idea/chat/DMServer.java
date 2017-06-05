@@ -56,7 +56,7 @@ public class DMServer{
 
     }
 
-    public String showMessage(String s) {
-        return s;
-    }//wtf is the point of this lol
+    public void showMessage(String s) {
+
+    }//should return void instead of String
 }
